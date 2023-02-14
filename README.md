@@ -11,6 +11,10 @@ This is an example how to start a backend based on node using express extension.
 
 - npm install express
 
+## Install Elastic Apm Node Extension
+
+- npm install elastic-apm-node --save
+
 # Build
 
 1 - cd backend
